@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-okkk
+_spoo*ooky*_
 Use the left arrow to go back!
